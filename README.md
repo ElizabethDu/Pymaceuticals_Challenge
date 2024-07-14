@@ -4,4 +4,4 @@ The purpose of this study was to compare the performance of Pymaceuticals’ dru
 
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study.
 
-THe clinical study data shows that tumors only decreased in size when taking one of two drug regimens, Ramicane and Capomulin. 
+The clinical study data shows that tumors only decreased in size when taking one of two drug regimens, Ramicane and Capomulin. 
